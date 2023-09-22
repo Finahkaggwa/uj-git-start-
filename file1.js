@@ -1,4 +1,4 @@
-const names = ['andre', 'sino', 'sibo', 'nurha', 'simone']
+const names = ['andre', 'sino', 'sibo', 'nurha', 'simone', 'josephine']
 
 
 for (let counter = 0; counter < names.length; counter += 2) {
